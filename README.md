@@ -90,7 +90,7 @@ docker build -t <username>/go-fibonacci-api:1.0.0 .
 ### 2. Run docker image
 
 ```bash
-docker run -p 8080:8080 <username>/go-fibonacci-api:1.0.0
+docker run -p 8080:8080 <username>/go-fibonacci-api:1.0.1
 ```
 
 ### 3. Login into Docker
